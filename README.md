@@ -1,5 +1,5 @@
 # d326-written-submission
-The writtne portion of WGU's D326 - Advanced Data Management
+The written portion of WGU's D326 - Advanced Data Management
 
 Introduction
 Data analysts frequently transform data within a database so that it can be used for analysis and so that the data will be easier for nontechnical users to use and understand. You will emulate such a process in this task by choosing your own business question to analyze, creating tables and queries to use as a business report, and streamlining your analysis by writing your own SQL functions, triggers, and stored procedures.
